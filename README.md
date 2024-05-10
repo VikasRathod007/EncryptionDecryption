@@ -8,5 +8,5 @@ You can change ths dict values to your desired value and use it to cipher and de
 
 
 **Clone the Repository:**
-git clone https://github.com/your_username/simple_substitution_cipher.git
+git clone https://github.com/VikasRathod007/EncryptionDecryption.git
 
